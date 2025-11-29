@@ -1,4 +1,4 @@
-🚨 Violence Detection Using YOLOv8
+🚨 Violence Detection Using YOLOv8 (ONGOING)
 
 Real-time violence detection system built using Python, YOLOv8, and OpenCV, designed to identify violent activities such as fights or aggressive movements in video streams.
 
