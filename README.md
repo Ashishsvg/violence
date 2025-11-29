@@ -122,9 +122,8 @@ Add violence severity scoring
 
 Ashish Tangde
 Python Developer | ML Enthusiast
-📧 Email: your-email
-🔗 LinkedIn: your-link
-🐙 GitHub: your-username
+📧 Email: ashish1282005@gmail.com    
+🐙 GitHub: Ashishsvg
 
 ⭐ Like this project?
 
